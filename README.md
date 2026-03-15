@@ -1,6 +1,6 @@
 # Uribe Sort
 
-> Algoritmo de ordenamiento estocástico con eliminación aleatoria calibrada.
+>  Algoritmo de ordenamiento estocástico con eliminación aleatoria calibrada, la calibracion se basa en el porcentaje resultante del numero de victimas de falsos positivos en el gobierno de Alvaro Uribe Velez frente al tamaño total de la poblacion, segun datos del DANE del año 2005
 
 ```
 Tasa de eliminación:  6402 / 42,900,000  ≈  0.014923 %
