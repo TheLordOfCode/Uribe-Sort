@@ -227,7 +227,7 @@ La elección de Merge Sort como base no es accidental: al ser un algoritmo que p
 
 ## Autor
 
-**UribeSort** — Algoritmo diseñado y nombrado por su autor.
+**TheLordOfCode** 
 
 Implementación Python y documentación técnica generadas con asistencia de Claude (Anthropic).
 
